@@ -1,4 +1,4 @@
-# MR.Gestures
+# ATC.MR.Gestures
 ### This is a fork of MR.Gestures for use with ATC devices.
 
 MR.Gestures adds events and Commands for handling touch and mouse gestures to all the .NET MAUI elements.
